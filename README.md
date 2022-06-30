@@ -3,9 +3,9 @@
 
 
 
-# Intégration statique Furniture
+# Intégration statique Saas
 
-Ce repository contient le starter kit du projet intégration statique Furniture disponible sur [Microlead.fr](https://microlead.fr)
+Ce repository contient le starter kit du projet intégration statique Saas disponible sur [Microlead.fr](https://microlead.fr)
 
 ## Prérequis
 
@@ -14,11 +14,11 @@ Ce repository contient le starter kit du projet intégration statique Furniture 
 - [Javascript niveau 8](https://microlead.fr/echelles/javascript)
 
 ## Importation dans figma
-Prenez les deux fichiers SVG dans le dossier Figma puis glissez/déposez dans votre navigateur en étant connecté sur figma pour avoir acces à la maquette.
+Prenez les fichiers SVG dans le dossier Figma puis glissez/déposez dans votre navigateur en étant connecté sur figma pour avoir acces à la maquette.
 
 ## Previsualisation de la maquette
 
-<p align="center"><img src="https://github.com/Rafales-Alexandre/Integration_statique-Furniture/blob/main/img/Template/Furniture Web.png" alt="template 3" width="300" /></p>
+<p align="center"><img src="https://github.com/Rafales-Alexandre/Integrasion_Statique-Saas/blob/main/img/SaaS Landing Page.png" alt="template 3" width="300" /></p>
 
 ## Bug & améliorations
 
